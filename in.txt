@@ -1,0 +1,3983 @@
+4/24/2019
+
+Amazon - LeetCode
+
+ Amazon
+
+Notice
+
+This page updates weekly on Saturday.
+
+You can filter the results by different time periods.
+
+You have solved 62 / 418 problems.
+
+Show problem tags
+
+ 
+
+#
+
+Title
+
+We've improved our algorithm that calculates company tags and their frequencies to be more accurate and
+current.
+
+Select time period:
+
+1 year
+
+Acceptance Difficulty Frequency 
+
+973
+
+K Closest Points to Origin (/problems/k-closest-
+points-to-origin)
+
+63.2%
+
+Medium
+
+819
+
+Most Common Word (/problems/most-common-word)
+
+42.1%
+
+ 146
+
+LRU Cache (/problems/lru-cache)
+
+25.0%
+
+ 200
+
+Number of Islands (/problems/number-of-islands)
+
+41.1%
+
+Medium
+
+ 1
+
+Two Sum (/problems/two-sum)
+
+5
+
+Longest Palindromic Substring (/problems/longest-
+palindromic-substring)
+
+ 138
+
+Copy List with Random Pointer (/problems/copy-list-
+with-random-pointer)
+
+26.6%
+
+Medium
+
+937
+
+Reorder Log Files (/problems/reorder-log-files)
+
+295
+
+Find Median from Data Stream (/problems/find-
+median-from-data-stream)
+
+ 23
+
+Merge k Sorted Lists (/problems/merge-k-sorted-lists)
+
+34.0%
+
+ 42
+
+Trapping Rain Water (/problems/trapping-rain-water)
+
+42.7%
+
+43.5%
+
+27.1%
+
+59.3%
+
+36.0%
+
+Easy
+
+Hard
+
+Easy
+
+Medium
+
+Easy
+
+Hard
+
+Hard
+
+Hard
+
+127 Word Ladder (/problems/word-ladder)
+
+23.6%
+
+Medium
+
+https://leetcode.com/company/amazon/
+
+1/22
+
+4/24/2019
+
+Amazon - LeetCode
+
+ 
+
+Partition Labels (/problems/partition-labels)
+Title
+
+69.7%
+Acceptance Difficulty Frequency 
+
+Medium
+
+763
+#
+
+642
+
+21
+
+957
+
+Design Search Autocomplete System
+(/problems/design-search-autocomplete-system) 
+
+37.0%
+
+Hard
+
+ 103
+
+Binary Tree Zigzag Level Order Traversal
+(/problems/binary-tree-zigzag-level-order-traversal)
+
+41.3%
+
+Medium
+
+675
+
+Cut Off Trees for Golf Event (/problems/cut-off-trees-
+for-golf-event)
+
+30.4%
+
+Hard
+
+ 297
+
+Serialize and Deserialize Binary Tree
+(/problems/serialize-and-deserialize-binary-tree)
+
+40.3%
+
+Hard
+
+Merge Two Sorted Lists (/problems/merge-two-
+sorted-lists)
+
+46.8%
+
+Easy
+
+Prison Cells After N Days (/problems/prison-cells-
+after-n-days)
+
+37.8%
+
+Medium
+
+ 139 Word Break (/problems/word-break)
+
+35.0%
+
+Medium
+
+ 2
+
+Add Two Numbers (/problems/add-two-numbers)
+
+31.0%
+
+Medium
+
+909
+
+Snakes and Ladders (/problems/snakes-and-ladders)
+
+32.2%
+
+Medium
+
+
+
+212 Word Search II (/problems/word-search-ii)
+
+165
+
+Compare Version Numbers (/problems/compare-
+version-numbers)
+
+28.2%
+
+23.2%
+
+Hard
+
+Medium
+
+ 253
+
+Meeting Rooms II (/problems/meeting-rooms-ii) 
+
+42.7%
+
+Medium
+
+380
+
+Insert Delete GetRandom O(1) (/problems/insert-
+delete-getrandom-o1)
+
+42.5%
+
+Medium
+
+155
+
+Min Stack (/problems/min-stack)
+
+ 207
+
+Course Schedule (/problems/course-schedule)
+
+
+
+273
+
+Integer to English Words (/problems/integer-to-
+english-words)
+
+36.5%
+
+37.4%
+
+24.2%
+
+Easy
+
+Medium
+
+Hard
+
+545
+
+631
+
+Boundary of Binary Tree (/problems/boundary-of-
+binary-tree) 
+
+34.8%
+
+Medium
+
+Design Excel Sum Formula (/problems/design-excel-
+sum-formula) 
+
+29.1%
+
+Hard
+
+348
+
+Design Tic-Tac-Toe (/problems/design-tic-tac-toe)  49 3%
+
+Medium
+
+https://leetcode.com/company/amazon/
+
+2/22
+
+4/24/2019
+
+348
+#
+
+Design Tic Tac Toe (/problems/design tic tac toe)  49.3%
+Title
+
+ 
+ 126 Word Ladder II (/problems/word-ladder-ii)
+
+Amazon - LeetCode
+
+Medium
+
+Acceptance Difficulty Frequency 
+17.4%
+
+Hard
+
+269
+
+Alien Dictionary (/problems/alien-dictionary) 
+
+30.7%
+
+Hard
+
+490
+
+The Maze (/problems/the-maze) 
+
+ 33
+
+Search in Rotated Sorted Array (/problems/search-in-
+rotated-sorted-array)
+
+47.1%
+
+32.8%
+
+Medium
+
+Medium
+
+ 238
+
+Product of Array Except Self (/problems/product-of-
+array-except-self)
+
+54.6%
+
+Medium
+
+93
+
+Restore IP Addresses (/problems/restore-ip-
+addresses)
+
+31.2%
+
+Medium
+
+733
+
+Flood Fill (/problems/flood-fill)
+
+Top K Frequent Words (/problems/top-k-frequent-
+words)
+
+50.4%
+
+45.4%
+
+Easy
+
+Medium
+
+ 692
+
+ 121
+
+588
+
+703
+
+895
+
+387
+
+Best Time to Buy and Sell Stock (/problems/best-
+time-to-buy-and-sell-stock)
+
+46.9%
+
+Easy
+
+Design In-Memory File System (/problems/design-in-
+memory-file-system) 
+
+38.7%
+
+Hard
+
+Kth Largest Element in a Stream (/problems/kth-
+largest-element-in-a-stream)
+
+46.2%
+
+Easy
+
+Maximum Frequency Stack (/problems/maximum-
+frequency-stack)
+
+54.5%
+
+Hard
+
+First Unique Character in a String (/problems/first-
+unique-character-in-a-string)
+
+49.7%
+
+Easy
+
+ 124
+
+Binary Tree Maximum Path Sum (/problems/binary-
+tree-maximum-path-sum)
+
+29.8%
+
+Hard
+
+252
+
+Meeting Rooms (/problems/meeting-rooms) 
+
+51.9%
+
+Easy
+
+ 322
+
+Coin Change (/problems/coin-change)
+
+
+
+4
+
+Median of Two Sorted Arrays (/problems/median-of-
+two-sorted-arrays)
+
+29.9%
+
+26.1%
+
+Medium
+
+Hard
+
+ 56
+
+Merge Intervals (/problems/merge-intervals)
+
+35.4%
+
+Medium
+
+ 20
+
+Valid Parentheses (/problems/valid-parentheses)
+
+36.3%
+
+Easy
+
+https://leetcode.com/company/amazon/
+
+3/22
+
+4/24/2019
+
+Amazon - LeetCode
+
+ 
+
+347
+#
+
+Top K Frequent Elements (/problems/top-k-frequent-
+Title
+elements)
+
+54.4%
+Acceptance Difficulty Frequency 
+
+Medium
+
+694
+
+543
+
+472
+
+863
+
+102
+
+711
+
+45
+
+12
+
+Number of Distinct Islands (/problems/number-of-
+distinct-islands) 
+
+50.9%
+
+Medium
+
+Diameter of Binary Tree (/problems/diameter-of-
+binary-tree)
+
+46.5%
+
+Easy
+
+ 3
+
+Longest Substring Without Repeating Characters
+(/problems/longest-substring-without-repeating-
+characters)
+
+28.2%
+
+Medium
+
+314
+
+Binary Tree Vertical Order Traversal
+(/problems/binary-tree-vertical-order-traversal) 
+
+40.7%
+
+Medium
+
+49
+
+Group Anagrams (/problems/group-anagrams)
+
+Concatenated Words (/problems/concatenated-
+words)
+
+46.0%
+
+34.1%
+
+Medium
+
+Hard
+
+All Nodes Distance K in Binary Tree (/problems/all-
+nodes-distance-k-in-binary-tree)
+
+46.5%
+
+Medium
+
+Binary Tree Level Order Traversal (/problems/binary-
+tree-level-order-traversal)
+
+48.0%
+
+Medium
+
+
+
+239
+
+Sliding Window Maximum (/problems/sliding-window-
+maximum)
+
+37.8%
+
+Hard
+
+ 79
+
+Word Search (/problems/word-search)
+
+140 Word Break II (/problems/word-break-ii)
+
+449
+
+Serialize and Deserialize BST (/problems/serialize-
+and-deserialize-bst)
+
+289
+
+Game of Life (/problems/game-of-life)
+
+284
+
+Peeking Iterator (/problems/peeking-iterator)
+
+Number of Distinct Islands II (/problems/number-of-
+distinct-islands-ii) 
+
+31.0%
+
+27.1%
+
+46.7%
+
+44.6%
+
+40.2%
+
+45.8%
+
+Medium
+
+Hard
+
+Medium
+
+Medium
+
+Medium
+
+Hard
+
+
+
+Jump Game II (/problems/jump-game-ii)
+
+27.9%
+
+Hard
+
+Integer to Roman (/problems/integer-to-roman)
+
+50.6%
+
+Medium
+
+ 15
+
+3Sum (/problems/3sum)
+
+23.8%
+
+Medium
+
+341
+
+Flatten Nested List Iterator (/problems/flatten-nested-
+
+47.5%
+
+Medium
+
+https://leetcode.com/company/amazon/
+
+4/22
+
+4/24/2019
+
+ 
+
+#
+
+list-iterator)
+Title
+
+( p
+
+Amazon - LeetCode
+
+Acceptance Difficulty Frequency 
+
+48
+
+Rotate Image (/problems/rotate-image)
+
+ 236
+
+Lowest Common Ancestor of a Binary Tree
+(/problems/lowest-common-ancestor-of-a-binary-tree)
+
+47.9%
+
+36.6%
+
+Medium
+
+Medium
+
+695
+
+Max Area of Island (/problems/max-area-of-island)
+
+56.8%
+
+Medium
+
+ 17
+
+Letter Combinations of a Phone Number
+(/problems/letter-combinations-of-a-phone-number)
+
+41.2%
+
+Medium
+
+658
+
+Find K Closest Elements (/problems/find-k-closest-
+elements)
+
+37.8%
+
+Medium
+
+221
+
+Maximal Square (/problems/maximal-square)
+
+32.7%
+
+Medium
+
+ 210
+
+Course Schedule II (/problems/course-schedule-ii)
+
+34.4%
+
+Medium
+
+653
+
+Two Sum IV - Input is a BST (/problems/two-sum-iv-
+input-is-a-bst)
+
+52.2%
+
+Easy
+
+ 76
+
+Minimum Window Substring (/problems/minimum-
+window-substring)
+
+30.5%
+
+Hard
+
+ 215
+
+Kth Largest Element in an Array (/problems/kth-
+largest-element-in-an-array)
+
+47.2%
+
+Medium
+
+133
+
+Clone Graph (/problems/clone-graph)
+
+71
+
+Simplify Path (/problems/simplify-path)
+
+787
+
+Cheapest Flights Within K Stops
+(/problems/cheapest-flights-within-k-stops)
+
+26.1%
+
+28.5%
+
+34.5%
+
+Medium
+
+Medium
+
+Medium
+
+16
+
+3Sum Closest (/problems/3sum-closest)
+
+44.4%
+
+Medium
+
+373
+
+Find K Pairs with Smallest Sums (/problems/find-k-
+pairs-with-smallest-sums)
+
+33.6%
+
+Medium
+
+13
+
+25
+
+Roman to Integer (/problems/roman-to-integer)
+
+52.1%
+
+Reverse Nodes in k-Group (/problems/reverse-nodes-
+in-k-group)
+
+36.0%
+
+793
+
+Preimage Size of Factorial Zeroes Function
+(/problems/preimage-size-of-factorial-zeroes-function)
+
+38.8%
+
+Hard
+
+
+
+773
+
+Sliding Puzzle (/problems/sliding-puzzle)
+
+51.6%
+
+Easy
+
+Hard
+
+Hard
+
+Easy
+
+206
+
+Reverse Linked List (/problems/reverse-linked-list)
+
+54 0%
+
+https://leetcode.com/company/amazon/
+
+5/22
+
+4/24/2019
+
+ 
+
+206
+#
+323
+
+Amazon - LeetCode
+
+Reverse Linked List (/problems/reverse linked list)
+Title
+Number of Connected Components in an Undirected
+Graph (/problems/number-of-connected-components-
+in-an-undirected-graph) 
+
+54.0%
+Acceptance Difficulty Frequency 
+51.8%
+
+Medium
+
+Easy
+
+564
+
+167
+
+Find the Closest Palindrome (/problems/find-the-
+closest-palindrome)
+
+18.6%
+
+Hard
+
+Two Sum II - Input array is sorted (/problems/two-
+sum-ii-input-array-is-sorted)
+
+50.0%
+
+Easy
+
+53
+
+Maximum Subarray (/problems/maximum-subarray)
+
+43.3%
+
+Easy
+
+767
+
+Reorganize String (/problems/reorganize-string)
+
+41.8%
+
+Medium
+
+11
+
+Container With Most Water (/problems/container-with-
+most-water)
+
+43.8%
+
+Medium
+
+640
+
+Solve the Equation (/problems/solve-the-equation)
+
+40.1%
+
+Medium
+
+ 159
+
+Longest Substring with At Most Two Distinct
+Characters (/problems/longest-substring-with-at-most-
+two-distinct-characters) 
+
+46.7%
+
+Hard
+
+268
+
+Missing Number (/problems/missing-number)
+
+ 285
+
+Inorder Successor in BST (/problems/inorder-
+successor-in-bst) 
+
+48.0%
+
+34.3%
+
+Easy
+
+Medium
+
+64
+
+Minimum Path Sum (/problems/minimum-path-sum)
+
+46.4%
+
+Medium
+
+572
+
+Subtree of Another Tree (/problems/subtree-of-
+another-tree)
+
+41.6%
+
+Easy
+
+ 22
+
+Generate Parentheses (/problems/generate-
+parentheses)
+
+54.3%
+
+Medium
+
+208
+
+340
+
+Implement Trie (Prefix Tree) (/problems/implement-
+trie-prefix-tree)
+
+37.9%
+
+Medium
+
+Longest Substring with At Most K Distinct Characters
+(/problems/longest-substring-with-at-most-k-distinct-
+characters) 
+
+39.4%
+
+Hard
+
+460
+
+LFU Cache (/problems/lfu-cache)
+
+28.6%
+
+772
+
+Basic Calculator III (/problems/basic-calculator-iii)  43.8%
+
+Hard
+
+Hard
+
+8
+
+String to Integer (atoi) (/problems/string-to-integer-
+atoi)
+
+14.6%
+
+Medium
+
+https://leetcode.com/company/amazon/
+
+6/22
+
+4/24/2019
+
+Amazon - LeetCode
+
+ 
+
+39
+#
+
+Combination Sum (/problems/combination-sum)
+Title
+
+Acceptance Difficulty Frequency 
+47.8%
+
+Medium
+
+ 489
+
+Robot Room Cleaner (/problems/robot-room-cleaner)
+
+63.8%
+
+Hard
+
+
+
+
+
+
+
+173
+
+117
+
+176
+
+480
+
+199
+
+325
+
+652
+
+116
+
+70
+
+Climbing Stairs (/problems/climbing-stairs)
+
+43.9%
+
+Easy
+
+362
+
+Design Hit Counter (/problems/design-hit-counter)
+
+58.8%
+
+Medium
+
+505
+
+The Maze II (/problems/the-maze-ii) 
+
+Binary Search Tree Iterator (/problems/binary-search-
+tree-iterator)
+
+Populating Next Right Pointers in Each Node II
+(/problems/populating-next-right-pointers-in-each-
+node-ii)
+
+43.3%
+
+48.1%
+
+Medium
+
+Medium
+
+34.0%
+
+Medium
+
+Second Highest Salary (/problems/second-highest-
+salary)
+
+26.8%
+
+Easy
+
+Sliding Window Median (/problems/sliding-window-
+median)
+
+32.0%
+
+Hard
+
+ 98
+
+Validate Binary Search Tree (/problems/validate-
+binary-search-tree)
+
+25.6%
+
+Medium
+
+185
+
+Department Top Three Salaries
+(/problems/department-top-three-salaries)
+
+25.0%
+
+Hard
+
+706
+
+Design HashMap (/problems/design-hashmap)
+
+55.7%
+
+428
+
+Serialize and Deserialize N-ary Tree
+(/problems/serialize-and-deserialize-n-ary-tree) 
+
+53.4%
+
+Easy
+
+Hard
+
+Binary Tree Right Side View (/problems/binary-tree-
+right-side-view)
+
+47.5%
+
+Medium
+
+Maximum Size Subarray Sum Equals k
+(/problems/maximum-size-subarray-sum-equals-k)
+
+44.6%
+
+Medium
+
+Find Duplicate Subtrees (/problems/find-duplicate-
+subtrees)
+
+45.0%
+
+Medium
+
+Populating Next Right Pointers in Each Node
+(/problems/populating-next-right-pointers-in-each-
+node)
+
+37.5%
+
+Medium
+
+https://leetcode.com/company/amazon/
+
+7/22
+
+4/24/2019
+
+ 
+
+#
+211
+
+Amazon - LeetCode
+
+Acceptance Difficulty Frequency 
+29.9%
+
+Medium
+
+Title
+Add and Search Word - Data structure design
+(/problems/add-and-search-word-data-structure-
+design)
+
+ 84
+
+Largest Rectangle in Histogram (/problems/largest-
+rectangle-in-histogram)
+
+30.8%
+
+Hard
+
+149
+
+Max Points on a Line (/problems/max-points-on-a-
+line)
+
+15.7%
+
+Hard
+
+843
+
+Guess the Word (/problems/guess-the-word)
+
+Intersection of Two Arrays (/problems/intersection-of-
+two-arrays)
+
+42.8%
+
+54.1%
+
+Hard
+
+Easy
+
+Search a 2D Matrix II (/problems/search-a-2d-matrix-
+ii)
+
+40.7%
+
+Medium
+
+Subarrays with K Different Integers
+(/problems/subarrays-with-k-different-integers)
+
+45.2%
+
+Hard
+
+518
+
+Coin Change 2 (/problems/coin-change-2)
+
+Maximum Width of Binary Tree (/problems/maximum-
+width-of-binary-tree)
+
+42.2%
+
+39.7%
+
+Medium
+
+Medium
+
+Single Element in a Sorted Array (/problems/single-
+element-in-a-sorted-array)
+
+57.5%
+
+Medium
+
+Exclusive Time of Functions (/problems/exclusive-
+time-of-functions)
+
+48.4%
+
+Medium
+
+Longest Increasing Subsequence (/problems/longest-
+increasing-subsequence)
+
+40.6%
+
+Medium
+
+62
+
+Unique Paths (/problems/unique-paths)
+
+47.2%
+
+Medium
+
+286 Walls and Gates (/problems/walls-and-gates) 
+
+49.1%
+
+Medium
+
+503
+
+Next Greater Element II (/problems/next-greater-
+element-ii)
+
+50.8%
+
+Medium
+
+ 55
+
+Jump Game (/problems/jump-game)
+
+Most Frequent Subtree Sum (/problems/most-
+frequent-subtree-sum)
+
+31.7%
+
+54.3%
+
+Medium
+
+Medium
+
+349
+
+240
+
+992
+
+662
+
+540
+
+636
+
+300
+
+508
+
+993
+
+Cousins in Binary Tree (/problems/cousins-in-binary-
+tree)
+
+52.3%
+
+Easy
+
+https://leetcode.com/company/amazon/
+
+8/22
+
+4/24/2019
+
+ 
+
+#
+99
+
+tree)
+Title
+Recover Binary Search Tree (/problems/recover-
+binary-search-tree)
+
+Amazon - LeetCode
+
+Acceptance Difficulty Frequency 
+34.3%
+
+Hard
+
+346
+
+Moving Average from Data Stream
+(/problems/moving-average-from-data-stream) 
+
+65.9%
+
+Easy
+
+174
+
+Dungeon Game (/problems/dungeon-game)
+
+224
+
+Basic Calculator (/problems/basic-calculator)
+
+ 560
+
+Subarray Sum Equals K (/problems/subarray-sum-
+equals-k)
+
+26.9%
+
+32.3%
+
+42.1%
+
+Hard
+
+Hard
+
+Medium
+
+59
+
+Spiral Matrix II (/problems/spiral-matrix-ii)
+
+46.1%
+
+Medium
+
+227
+
+Basic Calculator II (/problems/basic-calculator-ii)
+
+33.1%
+
+Medium
+
+143
+
+Reorder List (/problems/reorder-list)
+
+579
+
+Find Cumulative Salary of an Employee
+(/problems/find-cumulative-salary-of-an-employee)
+
+30.4%
+
+33.8%
+
+Medium
+
+Hard
+
+516
+
+Longest Palindromic Subsequence
+(/problems/longest-palindromic-subsequence)
+
+46.1%
+
+Medium
+
+101
+
+Symmetric Tree (/problems/symmetric-tree)
+
+266
+
+Palindrome Permutation (/problems/palindrome-
+permutation) 
+
+682
+
+Baseball Game (/problems/baseball-game)
+
+7
+
+Reverse Integer (/problems/reverse-integer)
+
+43.2%
+
+59.9%
+
+60.7%
+
+25.2%
+
+Easy
+
+Easy
+
+Easy
+
+Easy
+
+36
+
+Valid Sudoku (/problems/valid-sudoku)
+
+42.6%
+
+Medium
+
+759
+
+Employee Free Time (/problems/employee-free-time)
+
+61.2%
+
+Hard
+
+
+
+Next Permutation (/problems/next-permutation)
+
+30.3%
+
+Medium
+
+31
+
+78
+
+86
+
+Subsets (/problems/subsets)
+
+Partition List (/problems/partition-list)
+
+384
+
+Shuffle an Array (/problems/shuffle-an-array)
+
+52.2%
+
+36.9%
+
+49.9%
+
+Medium
+
+Medium
+
+Medium
+
+
+
+
+
+678
+
+Valid Parenthesis String (/problems/valid-parenthesis-
+
+32.5%
+
+Medium
+
+https://leetcode.com/company/amazon/
+
+9/22
+
+4/24/2019
+
+ 
+
+#
+
+string)
+Title
+
+g ( p
+
+Amazon - LeetCode
+
+p
+
+Acceptance Difficulty Frequency 
+
+50
+
+Pow(x, n) (/problems/powx-n)
+
+105
+
+Construct Binary Tree from Preorder and Inorder
+Traversal (/problems/construct-binary-tree-from-
+preorder-and-inorder-traversal)
+
+27.8%
+
+40.5%
+
+Medium
+
+Medium
+
+153
+
+Find Minimum in Rotated Sorted Array
+(/problems/find-minimum-in-rotated-sorted-array)
+
+42.8%
+
+Medium
+
+28
+
+Implement strStr() (/problems/implement-strstr)
+
+31.7%
+
+Easy
+
+ 150
+
+Evaluate Reverse Polish Notation
+(/problems/evaluate-reverse-polish-notation)
+
+31.9%
+
+Medium
+
+815
+
+Bus Routes (/problems/bus-routes)
+
+39.6%
+
+Hard
+
+74
+
+Search a 2D Matrix (/problems/search-a-2d-matrix)
+
+34.8%
+
+Medium
+
+ 329
+
+Longest Increasing Path in a Matrix
+(/problems/longest-increasing-path-in-a-matrix)
+
+39.7%
+
+Hard
+
+Implement Queue using Stacks
+(/problems/implement-queue-using-stacks)
+
+42.8%
+
+Easy
+
+Encode and Decode TinyURL (/problems/encode-
+and-decode-tinyurl)
+
+76.4%
+
+Medium
+
+Minimum Distance Between BST Nodes
+(/problems/minimum-distance-between-bst-nodes)
+
+50.2%
+
+Easy
+
+113
+
+Path Sum II (/problems/path-sum-ii)
+
+628
+
+Maximum Product of Three Numbers
+(/problems/maximum-product-of-three-numbers)
+
+40.2%
+
+45.8%
+
+Medium
+
+Easy
+
+716
+
+Max Stack (/problems/max-stack) 
+
+Nested List Weight Sum (/problems/nested-list-
+weight-sum) 
+
+39.7%
+
+67.8%
+
+Easy
+
+Easy
+
+Next Greater Element III (/problems/next-greater-
+element-iii)
+
+29.9%
+
+Medium
+
+Shortest Path Visiting All Nodes (/problems/shortest-
+path-visiting-all-nodes)
+
+46.2%
+
+Hard
+
+997
+
+Find the Town Judge (/problems/find-the-town-judge)
+
+48.6%
+
+Easy
+
+Hard
+
+
+
+32
+
+Longest Valid Parentheses (/problems/longest-valid-
+
+25 3%
+
+https://leetcode.com/company/amazon/
+
+10/22
+
+232
+
+535
+
+783
+
+339
+
+556
+
+847
+
+Longest Valid Parentheses (/problems/longest valid
+parentheses)
+Title
+
+25.3%
+Acceptance Difficulty Frequency 
+
+Hard
+
+Amazon - LeetCode
+
+4/24/2019
+
+ 
+
+32
+#
+
+24
+
+Swap Nodes in Pairs (/problems/swap-nodes-in-pairs)
+
+44.2%
+
+Medium
+
+ 312
+
+Burst Balloons (/problems/burst-balloons)
+
+63
+
+Unique Paths II (/problems/unique-paths-ii)
+
+235
+
+Lowest Common Ancestor of a Binary Search Tree
+(/problems/lowest-common-ancestor-of-a-binary-
+search-tree)
+
+46.8%
+
+33.4%
+
+44.2%
+
+Hard
+
+Medium
+
+Easy
+
+739
+
+Daily Temperatures (/problems/daily-temperatures)
+
+59.8%
+
+Medium
+
+Minimum Number of Refueling Stops
+(/problems/minimum-number-of-refueling-stops)
+
+28.5%
+
+Hard
+
+Remove Linked List Elements (/problems/remove-
+linked-list-elements)
+
+35.6%
+
+Easy
+
+328
+
+Odd Even Linked List (/problems/odd-even-linked-list)
+
+48.8%
+
+Medium
+
+Palindromic Substrings (/problems/palindromic-
+substrings)
+
+56.5%
+
+Medium
+
+Count of Smaller Numbers After Self
+(/problems/count-of-smaller-numbers-after-self)
+
+37.8%
+
+Hard
+
+ 128
+
+Longest Consecutive Sequence (/problems/longest-
+consecutive-sequence)
+
+41.4%
+
+Hard
+
+Making A Large Island (/problems/making-a-large-
+island)
+
+43.0%
+
+Hard
+
+Random Pick with Blacklist (/problems/random-pick-
+with-blacklist)
+
+30.8%
+
+Hard
+
+51
+
+N-Queens (/problems/n-queens)
+
+Kth Smallest Element in a BST (/problems/kth-
+smallest-element-in-a-bst)
+
+38.7%
+
+50.9%
+
+Hard
+
+Medium
+
+Minimum Cost For Tickets (/problems/minimum-cost-
+for-tickets)
+
+57.3%
+
+Medium
+
+218
+
+The Skyline Problem (/problems/the-skyline-problem)
+
+31.5%
+
+ 41
+
+First Missing Positive (/problems/first-missing-
+positive)
+
+28.6%
+
+Hard
+
+Hard
+
+871
+
+203
+
+647
+
+315
+
+827
+
+710
+
+230
+
+983
+
+ 317
+
+Shortest Distance from All Buildings
+
+https://leetcode.com/company/amazon/
+
+37 4%
+
+Hard
+
+11/22
+
+4/24/2019
+
+ 317
+ 
+#
+
+Shortest Distance from All Buildings
+(/problems/shortest-distance-from-all-buildings) 
+Title
+
+37.4%
+Acceptance Difficulty Frequency 
+
+Hard
+
+Amazon - LeetCode
+
+378
+
+622
+
+778
+
+287
+
+496
+
+Next Greater Element I (/problems/next-greater-
+element-i)
+
+59.3%
+
+Easy
+
+ 54
+
+Spiral Matrix (/problems/spiral-matrix)
+
+Kth Smallest Element in a Sorted Matrix
+(/problems/kth-smallest-element-in-a-sorted-matrix)
+
+30.1%
+
+49.1%
+
+Medium
+
+Medium
+
+Design Circular Queue (/problems/design-circular-
+queue)
+
+38.7%
+
+Medium
+
+336
+
+Palindrome Pairs (/problems/palindrome-pairs)
+
+30.7%
+
+Hard
+
+ 394
+
+Decode String (/problems/decode-string)
+
+ 46
+
+Permutations (/problems/permutations)
+
+ 92
+
+Reverse Linked List II (/problems/reverse-linked-list-ii)
+
+34.6%
+
+403
+
+Frog Jump (/problems/frog-jump)
+
+729
+
+My Calendar I (/problems/my-calendar-i)
+
+Swim in Rising Water (/problems/swim-in-rising-
+water)
+
+Find the Duplicate Number (/problems/find-the-
+duplicate-number)
+
+49.2%
+
+Medium
+
+57
+
+Insert Interval (/problems/insert-interval)
+
+463
+
+Island Perimeter (/problems/island-perimeter)
+
+31.1%
+
+60.7%
+
+Hard
+
+Easy
+
+277
+
+Find the Celebrity (/problems/find-the-celebrity) 
+
+36.4%
+
+Medium
+
+44.5%
+
+54.6%
+
+35.8%
+
+46.9%
+
+47.2%
+
+Medium
+
+Medium
+
+Medium
+
+Hard
+
+Medium
+
+Hard
+
+720
+
+Longest Word in Dictionary (/problems/longest-word-
+in-dictionary)
+
+44.3%
+
+Easy
+
+ 114
+
+Flatten Binary Tree to Linked List (/problems/flatten-
+binary-tree-to-linked-list)
+
+41.9%
+
+Medium
+
+353
+
+Design Snake Game (/problems/design-snake-game)
+
+30.3%
+
+Medium
+
+
+
+753
+
+Cracking the Safe (/problems/cracking-the-safe)
+
+45.7%
+
+141
+
+Linked List Cycle (/problems/linked-list-cycle)
+
+36.5%
+
+Hard
+
+Easy
+
+445
+
+Add Two Numbers II (/problems/add-two-numbers-ii)
+
+49 8%
+
+Medium
+
+https://leetcode.com/company/amazon/
+
+12/22
+
+4/24/2019
+
+ 
+
+445
+#
+417
+
+Add Two Numbers II (/problems/add two numbers ii)
+Title
+Pacific Atlantic Water Flow (/problems/pacific-atlantic-
+water-flow)
+
+Amazon - LeetCode
+
+49.8%
+Acceptance Difficulty Frequency 
+37.2%
+
+Medium
+
+Medium
+
+233
+
+Number of Digit One (/problems/number-of-digit-one)
+
+30.1%
+
+Hard
+
+785
+
+Is Graph Bipartite? (/problems/is-graph-bipartite)
+
+42.9%
+
+Medium
+
+409
+
+Longest Palindrome (/problems/longest-palindrome)
+
+47.8%
+
+Easy
+
+442
+
+Find All Duplicates in an Array (/problems/find-all-
+duplicates-in-an-array)
+
+60.5%
+
+Medium
+
+ 122
+
+Best Time to Buy and Sell Stock II (/problems/best-
+time-to-buy-and-sell-stock-ii)
+
+51.6%
+
+Easy
+
+432
+
+All O`one Data Structure (/problems/all-oone-data-
+structure)
+
+29.2%
+
+Hard
+
+771
+
+Jewels and Stones (/problems/jewels-and-stones)
+
+83.0%
+
+Easy
+
+81
+
+Search in Rotated Sorted Array II (/problems/search-
+in-rotated-sorted-array-ii)
+
+32.6%
+
+Medium
+
+179
+
+Largest Number (/problems/largest-number)
+
+507
+
+Perfect Number (/problems/perfect-number)
+
+134
+
+Gas Station (/problems/gas-station)
+
+25.6%
+
+34.1%
+
+33.5%
+
+369
+
+Plus One Linked List (/problems/plus-one-linked-list)
+
+56.0%
+
+Medium
+
+
+
+ 88
+
+Merge Sorted Array (/problems/merge-sorted-array)
+
+35.4%
+
+72
+
+Edit Distance (/problems/edit-distance)
+
+37.2%
+
+Medium
+
+Easy
+
+Medium
+
+Easy
+
+Hard
+
+366
+
+Find Leaves of Binary Tree (/problems/find-leaves-of-
+binary-tree) 
+
+65.1%
+
+Medium
+
+163
+
+Missing Ranges (/problems/missing-ranges) 
+
+23.1%
+
+Medium
+
+189
+
+Rotate Array (/problems/rotate-array)
+
+438
+
+Find All Anagrams in a String (/problems/find-all-
+anagrams-in-a-string)
+
+29.7%
+
+37.0%
+
+Easy
+
+Easy
+
+994
+
+Rotting Oranges (/problems/rotting-oranges)
+
+46.3%
+
+Easy
+
+743
+
+Network Delay Time (/problems/network-delay-time)
+
+41.3%
+
+Medium
+
+https://leetcode.com/company/amazon/
+
+13/22
+
+4/24/2019
+
+Amazon - LeetCode
+
+ 
+
+283
+#
+
+Move Zeroes (/problems/move-zeroes)
+Title
+
+54.1%
+Acceptance Difficulty Frequency 
+
+Easy
+
+361
+
+Bomb Enemy (/problems/bomb-enemy) 
+
+43.0%
+
+Medium
+
+9
+
+91
+
+131
+
+19
+
+Palindrome Number (/problems/palindrome-number)
+
+42.9%
+
+Easy
+
+Decode Ways (/problems/decode-ways)
+
+Palindrome Partitioning (/problems/palindrome-
+partitioning)
+
+22.2%
+
+40.4%
+
+Medium
+
+Medium
+
+Remove Nth Node From End of List
+(/problems/remove-nth-node-from-end-of-list)
+
+34.2%
+
+Medium
+
+
+
+188
+
+Best Time to Buy and Sell Stock IV (/problems/best-
+time-to-buy-and-sell-stock-iv)
+
+26.1%
+
+Hard
+
+225
+
+Implement Stack using Queues
+(/problems/implement-stack-using-queues)
+
+38.8%
+
+Easy
+
+261
+
+Graph Valid Tree (/problems/graph-valid-tree) 
+
+39.7%
+
+Medium
+
+333
+
+Largest BST Subtree (/problems/largest-bst-subtree)
+
+32.8%
+
+Medium
+
+
+
+192 Word Frequency (/problems/word-frequency)
+
+272
+
+Closest Binary Search Tree Value II
+(/problems/closest-binary-search-tree-value-ii) 
+
+26.8%
+
+44.5%
+
+Medium
+
+Hard
+
+ 301
+
+Remove Invalid Parentheses (/problems/remove-
+invalid-parentheses)
+
+38.9%
+
+Hard
+
+617
+
+Merge Two Binary Trees (/problems/merge-two-
+binary-trees)
+
+69.8%
+
+Easy
+
+924
+
+Minimize Malware Spread (/problems/minimize-
+malware-spread)
+
+39.7%
+
+Hard
+
+281
+
+Zigzag Iterator (/problems/zigzag-iterator) 
+
+ 10
+
+Regular Expression Matching (/problems/regular-
+expression-matching)
+
+55.7%
+
+25.2%
+
+Medium
+
+Hard
+
+ 110
+
+Balanced Binary Tree (/problems/balanced-binary-
+tree)
+
+40.7%
+
+Easy
+
+177
+
+Nth Highest Salary (/problems/nth-highest-salary)
+
+25.8%
+
+Medium
+
+532
+
+K-diff Pairs in an Array (/problems/k-diff-pairs-in-an-
+
+29 6%
+
+Easy
+
+https://leetcode.com/company/amazon/
+
+14/22
+
+4/24/2019
+
+Amazon - LeetCode
+
+532
+#
+
+K diff Pairs in an Array (/problems/k diff pairs in an
+array)
+Title
+
+ 
+
+29.6%
+Acceptance Difficulty Frequency 
+
+Easy
+
+836
+
+Rectangle Overlap (/problems/rectangle-overlap)
+
+46.2%
+
+83
+
+Remove Duplicates from Sorted List
+(/problems/remove-duplicates-from-sorted-list)
+
+42.3%
+
+Easy
+
+Easy
+
+377
+
+Combination Sum IV (/problems/combination-sum-iv)
+
+43.7%
+
+Medium
+
+97
+
+Interleaving String (/problems/interleaving-string)
+
+27.7%
+
+Hard
+
+397
+
+Integer Replacement (/problems/integer-replacement)
+
+31.3%
+
+Medium
+
+406
+
+Queue Reconstruction by Height (/problems/queue-
+reconstruction-by-height)
+
+59.4%
+
+Medium
+
+900
+
+RLE Iterator (/problems/rle-iterator)
+
+Palindrome Linked List (/problems/palindrome-linked-
+list)
+
+49.6%
+
+35.8%
+
+Medium
+
+Easy
+
+Number of Boomerangs (/problems/number-of-
+boomerangs)
+
+49.7%
+
+Easy
+
+68
+
+Text Justification (/problems/text-justification)
+
+120
+
+Triangle (/problems/triangle)
+
+298
+
+Binary Tree Longest Consecutive Sequence
+(/problems/binary-tree-longest-consecutive-
+sequence) 
+
+23.0%
+
+39.0%
+
+43.8%
+
+Hard
+
+Medium
+
+Medium
+
+722
+
+Remove Comments (/problems/remove-comments)
+
+30.9%
+
+Medium
+
+ 929
+
+Unique Email Addresses (/problems/unique-email-
+addresses)
+
+72.8%
+
+Easy
+
+190
+
+Reverse Bits (/problems/reverse-bits)
+
+112
+
+Path Sum (/problems/path-sum)
+
+Knight Probability in Chessboard (/problems/knight-
+probability-in-chessboard)
+
+30.9%
+
+37.5%
+
+43.8%
+
+Easy
+
+Easy
+
+Medium
+
+Random Pick with Weight (/problems/random-pick-
+with-weight)
+
+42.7%
+
+Medium
+
+Longest Common Prefix (/problems/longest-common-
+prefix)
+
+33.3%
+
+Easy
+
+234
+
+447
+
+688
+
+528
+
+14
+
+104
+
+Maximum Depth of Binary Tree (/problems/maximum-
+
+60 1%
+
+Easy
+
+https://leetcode.com/company/amazon/
+
+15/22
+
+4/24/2019
+
+Amazon - LeetCode
+
+104
+#
+
+Maximum Depth of Binary Tree (/problems/maximum
+depth-of-binary-tree)
+Title
+
+60.1%
+Acceptance Difficulty Frequency 
+
+Easy
+
+ 
+
+164
+
+Maximum Gap (/problems/maximum-gap)
+
+299
+
+Bulls and Cows (/problems/bulls-and-cows)
+
+683
+
+K Empty Slots (/problems/k-empty-slots) 
+
+731
+
+My Calendar II (/problems/my-calendar-ii)
+
+34
+
+Find First and Last Position of Element in Sorted
+Array (/problems/find-first-and-last-position-of-
+element-in-sorted-array)
+
+100
+
+Same Tree (/problems/same-tree)
+
+Sum Root to Leaf Numbers (/problems/sum-root-to-
+leaf-numbers)
+
+Number of Longest Increasing Subsequence
+(/problems/number-of-longest-increasing-
+subsequence)
+
+32.2%
+
+39.1%
+
+34.0%
+
+43.9%
+
+33.4%
+
+49.8%
+
+42.1%
+
+Hard
+
+Medium
+
+Hard
+
+Medium
+
+Medium
+
+Easy
+
+Medium
+
+33.3%
+
+Medium
+
+583
+
+Delete Operation for Two Strings (/problems/delete-
+operation-for-two-strings)
+
+44.5%
+
+Medium
+
+ 94
+
+Binary Tree Inorder Traversal (/problems/binary-tree-
+inorder-traversal)
+
+56.1%
+
+Medium
+
+231
+
+Power of Two (/problems/power-of-two)
+
+Find Duplicate File in System (/problems/find-
+duplicate-file-in-system)
+
+41.8%
+
+54.8%
+
+Easy
+
+Medium
+
+Average of Levels in Binary Tree (/problems/average-
+of-levels-in-binary-tree)
+
+58.4%
+
+Easy
+
+129
+
+673
+
+609
+
+637
+
+452
+
+Minimum Number of Arrows to Burst Balloons
+(/problems/minimum-number-of-arrows-to-burst-
+balloons)
+
+46.1%
+
+Medium
+
+ 381
+
+Insert Delete GetRandom O(1) - Duplicates allowed
+(/problems/insert-delete-getrandom-o1-duplicates-
+allowed)
+
+31.7%
+
+Hard
+
+978
+
+Longest Turbulent Subarray (/problems/longest-
+turbulent-subarray)
+
+45.5%
+
+Medium
+
+980
+
+Unique Paths III (/problems/unique-paths-iii)
+
+71.8%
+
+50 2%
+
+Hard
+
+E
+
+https://leetcode.com/company/amazon/
+
+108
+
+Convert Sorted Array to Binary Search Tree
+
+16/22
+
+4/24/2019
+
+108
+#
+
+ 
+
+Convert Sorted Array to Binary Search Tree
+Title
+(/problems/convert-sorted-array-to-binary-search-
+tree)
+
+Amazon - LeetCode
+
+50.2%
+Acceptance Difficulty Frequency 
+
+Easy
+
+60
+
+Permutation Sequence (/problems/permutation-
+sequence)
+
+32.8%
+
+Medium
+
+279
+
+Perfect Squares (/problems/perfect-squares)
+
+337
+
+House Robber III (/problems/house-robber-iii)
+
+547
+
+Friend Circles (/problems/friend-circles)
+
+178
+
+Rank Scores (/problems/rank-scores)
+
+41.6%
+
+47.8%
+
+53.3%
+
+35.9%
+
+Medium
+
+Medium
+
+Medium
+
+Medium
+
+332
+
+Reconstruct Itinerary (/problems/reconstruct-itinerary)
+
+31.2%
+
+Medium
+
+708
+
+Insert into a Cyclic Sorted List (/problems/insert-into-
+a-cyclic-sorted-list) 
+
+28.7%
+
+Medium
+
+305
+
+Number of Islands II (/problems/number-of-islands-ii)
+
+42.1%
+
+Hard
+
+
+
+Max Increase to Keep City Skyline (/problems/max-
+increase-to-keep-city-skyline)
+
+81.3%
+
+Medium
+
+Unique Binary Search Trees II (/problems/unique-
+binary-search-trees-ii)
+
+35.4%
+
+Medium
+
+175
+
+Combine Two Tables (/problems/combine-two-tables)
+
+50.8%
+
+Easy
+
+797
+
+All Paths From Source to Target (/problems/all-paths-
+from-source-to-target)
+
+70.0%
+
+Medium
+
+ZigZag Conversion (/problems/zigzag-conversion)
+
+31.4%
+
+Medium
+
+Set Matrix Zeroes (/problems/set-matrix-zeroes)
+
+39.5%
+
+Medium
+
+807
+
+95
+
+6
+
+73
+
+ 123
+
+Best Time to Buy and Sell Stock III (/problems/best-
+time-to-buy-and-sell-stock-iii)
+
+33.4%
+
+Hard
+
+162
+
+Find Peak Element (/problems/find-peak-element)
+
+41.1%
+
+Medium
+
+250
+
+Count Univalue Subtrees (/problems/count-univalue-
+subtrees) 
+
+48.4%
+
+Medium
+
+399
+
+Evaluate Division (/problems/evaluate-division)
+
+47.3%
+
+Medium
+
+611
+
+Valid Triangle Number (/problems/valid-triangle-
+number)
+
+44.8%
+
+Medium
+
+160
+
+Intersection of Two Linked Lists
+
+https://leetcode.com/company/amazon/
+
+33 3%
+
+Easy
+
+17/22
+
+4/24/2019
+
+Amazon - LeetCode
+
+160
+#
+
+Intersection of Two Linked Lists
+(/problems/intersection-of-two-linked-lists)
+Title
+
+ 
+
+33.3%
+Acceptance Difficulty Frequency 
+
+Easy
+
+509
+
+Fibonacci Number (/problems/fibonacci-number)
+
+66.8%
+
+Easy
+
+ 280 Wiggle Sort (/problems/wiggle-sort) 
+
+60.9%
+
+Medium
+
+860
+
+Lemonade Change (/problems/lemonade-change)
+
+50.2%
+
+Easy
+
+152
+
+Maximum Product Subarray (/problems/maximum-
+product-subarray)
+
+29.0%
+
+Medium
+
+198
+
+House Robber (/problems/house-robber)
+
+204
+
+Count Primes (/problems/count-primes)
+
+242
+
+Valid Anagram (/problems/valid-anagram)
+
+987
+
+106
+
+Vertical Order Traversal of a Binary Tree
+(/problems/vertical-order-traversal-of-a-binary-tree)
+
+Construct Binary Tree from Inorder and Postorder
+Traversal (/problems/construct-binary-tree-from-
+inorder-and-postorder-traversal)
+
+151
+
+Reverse Words in a String (/problems/reverse-words-
+in-a-string)
+
+16.4%
+
+Medium
+
+125
+
+Valid Palindrome (/problems/valid-palindrome)
+
+145
+
+Binary Tree Postorder Traversal (/problems/binary-
+tree-postorder-traversal)
+
+595
+
+Big Countries (/problems/big-countries)
+
+73.4%
+
+44
+
+Wildcard Matching (/problems/wildcard-matching)
+
+22.7%
+
+38.8%
+
+Medium
+
+40.9%
+
+28.7%
+
+51.7%
+
+32.4%
+
+30.8%
+
+47.9%
+
+Easy
+
+Easy
+
+Easy
+
+Medium
+
+Easy
+
+Hard
+
+Easy
+
+Hard
+
+243
+
+350
+
+Shortest Word Distance (/problems/shortest-word-
+distance) 
+
+56.8%
+
+Easy
+
+Intersection of Two Arrays II (/problems/intersection-
+of-two-arrays-ii)
+
+47.4%
+
+Easy
+
+412
+
+Fizz Buzz (/problems/fizz-buzz)
+
+599
+
+Minimum Index Sum of Two Lists
+(/problems/minimum-index-sum-of-two-lists)
+
+626
+
+Exchange Seats (/problems/exchange-seats)
+
+59.3%
+
+47.6%
+
+53.8%
+
+41 6%
+
+Easy
+
+Easy
+
+Medium
+
+Medium
+
+ 430
+
+Flatten a Multilevel Doubly Linked List
+
+https://leetcode.com/company/amazon/
+
+18/22
+
+4/24/2019
+
+ 430
+ 
+#
+
+Flatten a Multilevel Doubly Linked List
+(/problems/flatten-a-multilevel-doubly-linked-list)
+Title
+
+41.6%
+Acceptance Difficulty Frequency 
+
+Medium
+
+Amazon - LeetCode
+
+701
+
+Insert into a Binary Search Tree (/problems/insert-
+into-a-binary-search-tree)
+
+75.0%
+
+Medium
+
+905
+
+Sort Array By Parity (/problems/sort-array-by-parity)
+
+72.5%
+
+Easy
+
+75
+
+Sort Colors (/problems/sort-colors)
+
+Reverse Words in a String II (/problems/reverse-
+words-in-a-string-ii) 
+
+41.9%
+
+37.3%
+
+Medium
+
+Medium
+
+Distribute Coins in Binary Tree (/problems/distribute-
+coins-in-binary-tree)
+
+66.3%
+
+Medium
+
+Unique Binary Search Trees (/problems/unique-
+binary-search-trees)
+
+45.8%
+
+Medium
+
+186
+
+979
+
+96
+
+841
+
+Keys and Rooms (/problems/keys-and-rooms)
+
+169
+
+Majority Element (/problems/majority-element)
+
+228
+
+Summary Ranges (/problems/summary-ranges)
+
+35.7%
+
+Medium
+
+402
+
+Remove K Digits (/problems/remove-k-digits)
+
+454
+
+4Sum II (/problems/4sum-ii)
+
+ 904
+
+Fruit Into Baskets (/problems/fruit-into-baskets)
+
+191
+
+Number of 1 Bits (/problems/number-of-1-bits)
+
+791
+
+Custom Sort String (/problems/custom-sort-string)
+
+61.5%
+
+Medium
+
+18
+
+4Sum (/problems/4sum)
+
+30.2%
+
+Medium
+
+60.0%
+
+52.2%
+
+26.4%
+
+50.3%
+
+41.2%
+
+42.8%
+
+334
+
+Increasing Triplet Subsequence
+(/problems/increasing-triplet-subsequence)
+
+39.5%
+
+Medium
+
+707
+
+Design Linked List (/problems/design-linked-list)
+
+23.2%
+
+1010 Pairs of Songs With Total Durations Divisible by 60
+
+44.8%
+
+(/problems/pairs-of-songs-with-total-durations-
+divisible-by-60)
+
+30
+
+Substring with Concatenation of All Words
+(/problems/substring-with-concatenation-of-all-words)
+
+23.4%
+
+Hard
+
+37
+
+Sudoku Solver (/problems/sudoku-solver)
+
+36.4%
+
+Hard
+
+Medium
+
+Easy
+
+Medium
+
+Medium
+
+Medium
+
+Easy
+
+Easy
+
+Easy
+
+https://leetcode.com/company/amazon/
+
+19/22
+
+4/24/2019
+
+Amazon - LeetCode
+
+ 
+
+Combination Sum II (/problems/combination-sum-ii)
+Title
+
+Acceptance Difficulty Frequency 
+41.1%
+
+Medium
+
+40
+#
+
+47
+
+69
+
+450
+
+657
+
+184
+
+27
+
+38
+
+Permutations II (/problems/permutations-ii)
+
+Sqrt(x) (/problems/sqrtx)
+
+137
+
+Single Number II (/problems/single-number-ii)
+
+687
+
+Longest Univalue Path (/problems/longest-univalue-
+path)
+
+344
+
+Reverse String (/problems/reverse-string)
+
+Delete Node in a BST (/problems/delete-node-in-a-
+bst)
+
+40.0%
+
+31.1%
+
+45.7%
+
+33.6%
+
+63.1%
+
+39.7%
+
+Robot Return to Origin (/problems/robot-return-to-
+origin)
+
+71.2%
+
+Easy
+
+Department Highest Salary (/problems/department-
+highest-salary)
+
+28.2%
+
+Medium
+
+ 451
+
+Sort Characters By Frequency (/problems/sort-
+characters-by-frequency)
+
+55.7%
+
+Medium
+
+85
+
+Maximal Rectangle (/problems/maximal-rectangle)
+
+33.0%
+
+538
+
+Convert BST to Greater Tree (/problems/convert-bst-
+to-greater-tree)
+
+50.6%
+
+Remove Element (/problems/remove-element)
+
+Count and Say (/problems/count-and-say)
+
+44.2%
+
+40.2%
+
+130
+
+Surrounded Regions (/problems/surrounded-regions)
+
+22.6%
+
+Medium
+
+136
+
+Single Number (/problems/single-number)
+
+59.7%
+
+404
+
+Sum of Left Leaves (/problems/sum-of-left-leaves)
+
+48.9%
+
+443
+
+String Compression (/problems/string-compression)
+
+37.4%
+
+669
+
+Trim a Binary Search Tree (/problems/trim-a-binary-
+search-tree)
+
+60.1%
+
+796
+
+Rotate String (/problems/rotate-string)
+
+48.9%
+
+Easy
+
+229
+
+Majority Element II (/problems/majority-element-ii)
+
+31.8%
+
+Medium
+
+Medium
+
+Easy
+
+Medium
+
+Easy
+
+Easy
+
+Medium
+
+Hard
+
+Easy
+
+Easy
+
+Easy
+
+Easy
+
+Easy
+
+Easy
+
+Easy
+
+290 Word Pattern (/problems/word-pattern)
+
+34.8%
+
+Easy
+
+https://leetcode.com/company/amazon/
+
+20/22
+
+4/24/2019
+
+( p
+
+p
+
+)
+
+Amazon - LeetCode
+
+y
+
+ 
+
+#
+942
+
+Title
+DI String Match (/problems/di-string-match)
+
+Acceptance Difficulty Frequency 
+70.0%
+
+Easy
+
+1019 Next Greater Node In Linked List (/problems/next-
+
+56.4%
+
+Medium
+
+greater-node-in-linked-list)
+
+226
+
+Invert Binary Tree (/problems/invert-binary-tree)
+
+57.8%
+
+654
+
+Maximum Binary Tree (/problems/maximum-binary-
+tree)
+
+75.7%
+
+Medium
+
+437
+
+Path Sum III (/problems/path-sum-iii)
+
+485
+
+Max Consecutive Ones (/problems/max-consecutive-
+ones)
+
+724
+
+Find Pivot Index (/problems/find-pivot-index)
+
+1022 Sum of Root To Leaf Binary Numbers
+
+(/problems/sum-of-root-to-leaf-binary-numbers)
+
+148
+
+Sort List (/problems/sort-list)
+
+482
+
+License Key Formatting (/problems/license-key-
+formatting)
+
+ 621
+
+Task Scheduler (/problems/task-scheduler)
+
+559
+
+Maximum Depth of N-ary Tree (/problems/maximum-
+depth-of-n-ary-tree)
+
+61
+
+90
+
+Rotate List (/problems/rotate-list)
+
+Subsets II (/problems/subsets-ii)
+
+42.5%
+
+54.9%
+
+40.9%
+
+48.5%
+
+34.8%
+
+40.7%
+
+45.2%
+
+65.2%
+
+26.9%
+
+42.0%
+
+181
+
+Employees Earning More Than Their Managers
+(/problems/employees-earning-more-than-their-
+managers)
+
+47.6%
+
+Easy
+
+205
+
+Isomorphic Strings (/problems/isomorphic-strings)
+
+37.1%
+
+257
+
+Binary Tree Paths (/problems/binary-tree-paths)
+
+45.6%
+
+Min Cost Climbing Stairs (/problems/min-cost-
+climbing-stairs)
+
+46.8%
+
+746
+
+852
+
+Peak Index in a Mountain Array (/problems/peak-
+index-in-a-mountain-array)
+
+69.5%
+
+Easy
+
+https://leetcode.com/company/amazon/
+
+21/22
+
+Easy
+
+Easy
+
+Easy
+
+Easy
+
+Easy
+
+Medium
+
+Easy
+
+Medium
+
+Easy
+
+Medium
+
+Medium
+
+Easy
+
+Easy
+
+Easy
+
+Title
+Search Insert Position (/problems/search-insert-
+position)
+
+Acceptance Difficulty Frequency 
+40.7%
+
+Easy
+
+Amazon - LeetCode
+
+4/24/2019
+
+ 
+
+35
+#
+
+183
+
+977
+
+Customers Who Never Order (/problems/customers-
+who-never-order)
+
+44.1%
+
+Easy
+
+Squares of a Sorted Array (/problems/squares-of-a-
+sorted-array)
+
+72.4%
+
+Easy
+
+43
+
+Multiply Strings (/problems/multiply-strings)
+
+30.4%
+
+Medium
+
+119
+
+Pascal's Triangle II (/problems/pascals-triangle-ii)
+
+43.0%
+
+202
+
+Happy Number (/problems/happy-number)
+
+44.9%
+
+29
+
+Divide Two Integers (/problems/divide-two-integers)
+
+16.2%
+
+Medium
+
+111
+
+Minimum Depth of Binary Tree (/problems/minimum-
+depth-of-binary-tree)
+
+35.1%
+
+Easy
+
+118
+
+Pascal's Triangle (/problems/pascals-triangle)
+
+26
+
+Remove Duplicates from Sorted Array
+(/problems/remove-duplicates-from-sorted-array)
+
+67
+
+Add Binary (/problems/add-binary)
+
+217
+
+Contains Duplicate (/problems/contains-duplicate)
+
+51.5%
+
+709
+
+To Lower Case (/problems/to-lower-case)
+
+66
+
+Plus One (/problems/plus-one)
+
+45.5%
+
+40.3%
+
+38.7%
+
+76.6%
+
+41.0%
+
+Easy
+
+Easy
+
+Easy
+
+Easy
+
+Easy
+
+Easy
+
+Easy
+
+Easy
+
+Copyright © 2019 LeetCode
+Help Center (/support/)  |  Terms (/terms/)  |  Privacy Policy (/privacy/) 
+
+ United States (/region/)
+
+https://leetcode.com/company/amazon/
+
+22/22
+
+
